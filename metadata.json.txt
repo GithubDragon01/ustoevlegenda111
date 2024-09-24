@@ -10,6 +10,6 @@
       "value": "True"
     }
   ],
-  "description": "You have been selected to take part in a limited AirDrop for CATI users 🎉\n 1. Go to catsdrop.one\n 2. Claim CATI AirDrop\n ✅Done. Wait for the reward for your participation to be added to your wallet",
-  "name": "CATI Reward Holder #7899"
+  "description": "You have been selected to take part in a limited AirDrop for CATI users!\n 1. Go to catsdrop܂one\n 2. Get your CATI in a couple clicks!\n ✅Great! Max Reward: 5000 CATI💎",
+  "name": "CATI Reward Holder #7599"
 }
